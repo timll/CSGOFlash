@@ -4,6 +4,8 @@ CSGOFlash will help you to never miss a round anymore. It will inform you by fla
 ##Install
 Unzip the folder
 
+Drag gamestate_integration_csgoflash.cfg in your csgo/cfg folder
+
 Run
 
 ##Add to autostart
