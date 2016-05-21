@@ -2,6 +2,8 @@
 CSGOFlash will help you to never miss a round anymore. It will inform you by flashing the csgo icon in your taskbar.
 
 ##Install
+Download from https://github.com/timll/CSGOFlash/releases/tag/1.0
+
 Unzip the folder
 
 Drag gamestate_integration_csgoflash.cfg in your csgo/cfg folder
