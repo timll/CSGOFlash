@@ -8,7 +8,7 @@ Unzip the folder
 
 Drag gamestate_integration_csgoflash.cfg in your csgo/cfg folder
 
-Run
+Run CSGOFlash.exe
 
 ##Add to autostart
 Rightclick on CSGOFlash.exe -> Send To Desktop
